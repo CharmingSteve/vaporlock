@@ -1,5 +1,3 @@
-# vaporlock
-
 # Vaporlock
 
 > **Autonomous Cloud Governance & Cost Optimization for AWS**
